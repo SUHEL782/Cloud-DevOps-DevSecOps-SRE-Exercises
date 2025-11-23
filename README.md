@@ -1,22 +1,30 @@
 # Cloud-DevOps-DevSecOps-SRE-Exercises
 
+![Banner](https://raw.githubusercontent.com/SUHEL782/Cloud-DevOps-DevSecOps-SRE-Exercises/main/assets/banner.png)
+
 Exercises and interview questions for **Cloud, DevOps, DevSecOps, and SRE**.  
-This repository is intended for learning, practice, and interview preparation.  
+This repository is intended for **learning, practice, and interview preparation**.
+
+---
+
+![MIT License](https://img.shields.io/badge/License-MIT-green)
+![GitHub issues](https://img.shields.io/github/issues/SUHEL782/Cloud-DevOps-DevSecOps-SRE-Exercises)
+![GitHub forks](https://img.shields.io/github/forks/SUHEL782/Cloud-DevOps-DevSecOps-SRE-Exercises)
 
 ---
 
 ## Table of Contents
 
-- [Cloud](#cloud)
-- [DevOps](#devops)
-- [DevSecOps](#devsecops)
-- [SRE](#sre)
+- [Cloud ☁️](#cloud)
+- [DevOps 🔧](#devops)
+- [DevSecOps 🛡️](#devsecops)
+- [SRE 📊](#sre)
 - [Contributing](#contributing)
 - [License](#license)
 
 ---
 
-## Cloud
+## Cloud ☁️
 
 Examples of exercises and questions related to:
 
@@ -24,9 +32,12 @@ Examples of exercises and questions related to:
 - Cloud architecture patterns
 - Scalability and high availability
 
+**Sample Exercise:**  
+![AWS EC2 Launch](https://raw.githubusercontent.com/SUHEL782/Cloud-DevOps-DevSecOps-SRE-Exercises/main/assets/cloud/ec2-launch.png)
+
 ---
 
-## DevOps
+## DevOps 🔧
 
 Topics and exercises for:
 
@@ -34,9 +45,12 @@ Topics and exercises for:
 - Automation (Terraform, Ansible, Jenkins, GitHub Actions)
 - Containerization (Docker, Kubernetes)
 
+**Sample Exercise:**  
+![Jenkins Pipeline](https://raw.githubusercontent.com/SUHEL782/Cloud-DevOps-DevSecOps-SRE-Exercises/main/assets/devops/jenkins-pipeline.png)
+
 ---
 
-## DevSecOps
+## DevSecOps 🛡️
 
 Focus areas:
 
@@ -44,15 +58,21 @@ Focus areas:
 - Vulnerability scanning
 - Compliance checks
 
+**Sample Exercise:**  
+![Trivy Vulnerability Scan](https://raw.githubusercontent.com/SUHEL782/Cloud-DevOps-DevSecOps-SRE-Exercises/main/assets/devsecops/trivy-scan.png)
+
 ---
 
-## SRE
+## SRE 📊
 
 Exercises for:
 
 - Monitoring & alerting
 - Reliability best practices
 - Incident response and runbooks
+
+**Sample Exercise:**  
+![Prometheus Monitoring](https://raw.githubusercontent.com/SUHEL782/Cloud-DevOps-DevSecOps-SRE-Exercises/main/assets/sre/prometheus-dashboard.png)
 
 ---
 
@@ -74,3 +94,7 @@ Please read the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting:
 ## License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+**Happy Learning & Contributing! 🚀**
